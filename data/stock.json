@@ -1,0 +1,11 @@
+[
+  { "item": "Chicken tinga taco", "countedAtOpen": 40, "soldSoFar": 34 },
+  { "item": "Carnitas taco", "countedAtOpen": 30, "soldSoFar": 12 },
+  { "item": "Roasted squash taco", "countedAtOpen": 20, "soldSoFar": 9 },
+  { "item": "Fish taco", "countedAtOpen": 15, "soldSoFar": 15 },
+  { "item": "Burrito bowl", "countedAtOpen": 25, "soldSoFar": 11 },
+  { "item": "Veggie bowl", "countedAtOpen": 20, "soldSoFar": 6 },
+  { "item": "Elote cup", "countedAtOpen": 30, "soldSoFar": 27 },
+  { "item": "Churros", "countedAtOpen": 24, "soldSoFar": 10 },
+  { "item": "Horchata", "countedAtOpen": 40, "soldSoFar": 29 }
+]
